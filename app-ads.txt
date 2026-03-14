@@ -2,12 +2,7 @@ facebook.com, 1239908831391685, DIRECT, c3e20eee3f780d68
 #Updated 17.11.2025
 #Appodeal
 appodeal.com, 260966, DIRECT
-#li
-vungle.com,696f6dd83eafeed3e7b23480,DIRECT,c107d686becd2d77
-bidmachine.io,258,RESELLER
-sharethrough.com,4343,RESELLER,d53b998a7bd4ecd2
-sharethrough.com,4610,RESELLER,d53b998a7bd4ecd2
-toponad.com,16513d1e193a2a,RESELLER,1d49fe424a1a456d
+
 #BidMachine
 bidmachine.io,1,DIRECT
 bidmachine.io,466,DIRECT
@@ -3073,15 +3068,9 @@ rubiconproject.com, 13380, RESELLER, 0bfd66d529a55807
 sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2
 zetaglobal.net, 630, RESELLER
 
-
-#L V
+#li
 vungle.com,696f6dd83eafeed3e7b23480,DIRECT,c107d686becd2d77
-bidmachine.io,258,RESELLER
-sharethrough.com,4343,RESELLER,d53b998a7bd4ecd2
-sharethrough.com,4610,RESELLER,d53b998a7bd4ecd2
-toponad.com,16513d1e193a2a,RESELLER,1d49fe424a1a456d
 
-vungle.com,696f6dd83eafeed3e7b23480,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 contextweb.com,562852,RESELLER,89ff185a4c4e857c
 media.net,8CU12AQ1Y,RESELLER
@@ -3442,7 +3431,13 @@ zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
 
-#i s
+
+bidmachine.io,258,RESELLER
+sharethrough.com,4343,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,4610,RESELLER,d53b998a7bd4ecd2
+toponad.com,16513d1e193a2a,RESELLER,1d49fe424a1a456d
+
+#is
 OWNERDOMAIN=spapptech-source.github.io
 ironsrc.com, 644793, Direct
 blueseasx.com, 203625, RESELLER
