@@ -2918,6 +2918,8 @@ triplelift.com, 13530, RESELLER
 mgid.com, 528163, RESELLER, D4C29ACAD76CE94F
 ssp.e-volution.ai, AJxF6R674a9M6CaTvK, DIRECT
 
+
+bidease.com, bidease_seller_49, RESELLER
 #u
 
 adagio.io, 1522, RESELLER
