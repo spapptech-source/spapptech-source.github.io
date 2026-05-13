@@ -2920,6 +2920,31 @@ ssp.e-volution.ai, AJxF6R674a9M6CaTvK, DIRECT
 
 
 bidease.com, bidease_seller_49, RESELLER
+
+bidscube.com, 5000674, RESELLER, 6ecc87a1e0269657
+bluexad.ai, 2037130095256145920, RESELLER
+gitberry.com, 615100018, RESELLER
+pubmatic.com, 164567, RESELLER, 5d62403b186f2ace
+pubnative.net, 1017792, RESELLER, d641df8625486a7b
+sabio.us, 100156, RESELLER, 96ed93aaa9795702
+ssp.e-volution.ai, AJxF6R674a9M6CaTvK, RESELLER
+themediagrid.com, FWN84J, DIRECT, 35d5010d7789b49d
+tubia.com, 40125, RESELLER
+ 
+ 
+beintoo.com, C7308, RESELLER
+cortextech.it, 0073, RESELLER
+jwsmedia.it, 90J0073, RESELLER
+lijit.com, 411121, RESELLER, fafdf38b16bf6b2b#SOVRN
+metup.it, AJxF6R674a9M6CaTvK, RESELLER
+playdigo.com, 2091, RESELLER, 92011346d63d3c30
+pubmatic.com, 159277, RESELLER, 
+refine.direct, 1000730C, RESELLER
+rubiconproject.com, 27945, RESELLER, 
+serpensx.com, SRP25080073, RESELLER
+sharethrough.com, 5867, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 5867, RESELLER, 060d053dcf45cbf3
+
 #u
 
 adagio.io, 1522, RESELLER
